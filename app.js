@@ -1,6 +1,4 @@
 
-
-
 export const App = () => {
-    return "ola mundo ajuste no app js"
+    return "Executei o desenvolvimento a tela de login"
 }
